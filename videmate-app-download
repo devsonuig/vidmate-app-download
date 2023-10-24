@@ -1,3 +1,27 @@
-<head> 
-Here is the Videmate
+<!DOCTYPE html>
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158331439-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158331439-1');
+</script>
+
+<h1> 
+Vidmate App Download 
+</h1>
+<br>
+<p> 
+Download Vidmate App now by just clicking on the download button this is a best version of Vidmate app where you can download all videos and audios from all platform like faceebok, youutub, 
+Instagram, Pinterest, Vk, Twitter for free. 
+</p>
+<br>
+<p><a href="https://www.w3schools.com/">Click Here to Download Vidmate Video Downloader App. </a></p>
 </head>
+<body>
+   
+</body>
+</html>
